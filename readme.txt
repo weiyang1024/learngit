@@ -6,4 +6,6 @@ Creating a new branch is quick
 Creating a new branch is quick AND simple
 add merge
 test stash
-my dev add
+
+my dev add1
+
